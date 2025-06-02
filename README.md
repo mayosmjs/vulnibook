@@ -1,6 +1,5 @@
 # Vulnerable Book Store Application
-VulnyBooks is a deliberately insecure web application built using Laravel (API) to demonstrate and teach the OWASP Top 10 
-vulnerabilities in a practical, API-driven environment.
+VulnyBooks is a deliberately insecure web application that mimics a basic BOOK STORE built using Laravel (API) to demonstrate and teach the OWASP Top 10 vulnerabilities in a practical, API-driven environment.
 
 **Caution !! The application is a basic implementation of a book store and should not be used in production**
 
@@ -72,9 +71,7 @@ vulnerabilities in a practical, API-driven environment.
 
 2. Scaffolding
 
-```
-  bash
-
+``` bash
   php artisan migrate --seed
 
 ```
