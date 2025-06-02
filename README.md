@@ -70,7 +70,16 @@ vulnerabilities in a practical, API-driven environment.
 
 ```
 
-2. Start the application
+2. Scaffolding
+
+```
+  bash
+
+  php artisan migrate --seed
+
+```
+
+3. Start the application
 ``` bash
    php run serve
 ```
