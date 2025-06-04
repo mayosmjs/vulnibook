@@ -84,8 +84,8 @@ VulnyBooks is a deliberately insecure web application that mimics a basic BOOK S
 
 
 ## Walk Through
-COMING SOON!
 
+https://medium.com/@calmajos/vulnibook-a-vulnerable-basic-api-fab4b6ebb2b9
 
 
 # 🛡 Legal Disclaimer
