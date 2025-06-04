@@ -81,6 +81,8 @@ VulnyBooks is a deliberately insecure web application that mimics a basic BOOK S
    php run serve
 ```
 
+### POSTMAN COLLECTION
+You can import the vulnibooks.postman-collection.json file found at the root of the application to your postman client for ease bootstrapping
 
 
 ## Walk Through
